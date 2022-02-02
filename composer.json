@@ -1,13 +1,13 @@
 {
-    "name": "cmmarslender/timer",
+    "name": "svcmetric/timer",
     "description": "PHP Timer with optional per-item averages",
     "type": "library",
     "require-dev": {},
     "license": "MIT",
     "authors": [
         {
-            "name": "Chris Marslender",
-            "email": "chrismarslender@gmail.com"
+            "name": "Surjit Vala",
+            "email": "surjit.vala@bbgi.com"
         }
     ],
     "minimum-stability": "stable",
